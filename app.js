@@ -17,9 +17,9 @@ app.get("/", (req, res) => {
   res.sendFile(join(__dirname, "public", "index.html"));
 });
 
-// app.post("/results" , (req, res) => {
+app.post("/results" , (req, res) => {
 
-// });
+});
 
 app.listen(process.env.PORT || 3000, () => {
   log(`Server is running on port ${process.env.PORT || port}`);
