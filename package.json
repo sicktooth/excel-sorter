@@ -1,0 +1,24 @@
+{
+  "name": "excel-sorter",
+  "version": "1.0.0",
+  "description": "Easily sort out Eleme names from an excel file",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sicktooth/excel-sorter.git"
+  },
+  "keywords": [
+    "Sort",
+    "names",
+    "excel"
+  ],
+  "author": "Samuel Ogboru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sicktooth/excel-sorter/issues"
+  },
+  "homepage": "https://github.com/sicktooth/excel-sorter#readme"
+}
