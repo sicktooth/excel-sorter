@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/sicktooth/excel-sorter.git"
   },
+  "type": "module",
   "keywords": [
     "Sort",
     "names",
@@ -20,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/sicktooth/excel-sorter/issues"
   },
-  "homepage": "https://github.com/sicktooth/excel-sorter#readme"
+  "homepage": "https://github.com/sicktooth/excel-sorter#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
 }
